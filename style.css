@@ -1,0 +1,23 @@
+.sedang {width: 500px;
+height: 500px;}
+
+.kanan {float:right;
+margin-right: 10px;}
+
+.kecil {width: 450px;
+height:300px;}
+
+.kiri {float: left;
+margin-right: 10px;}
+
+.tiga h3 {text-align: center;}
+
+.tengah {float: inline-end;}
+
+h2 {text-align: center;
+text-transform: uppercase;
+color: green;}
+
+span {color: black;}
+
+#merah {color: red;}

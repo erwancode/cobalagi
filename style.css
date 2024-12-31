@@ -21,3 +21,7 @@ color: green;}
 span {color: black;}
 
 #merah {color: red;}
+
+.pembungkus {display: flex;
+flex-wrap: wrap;
+gap: 10px;}
